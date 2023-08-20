@@ -9,6 +9,8 @@ def postive_numbers(a, b, c):
         positve_count += 1
 
     return positve_count == 2
+
+#tests
 print(postive_numbers(1,2,3))  #false
 print(postive_numbers(-1,2,3))  #false
 print(postive_numbers(-1,-2,3))  #true
