@@ -3,7 +3,7 @@ PHASE 3 WEEK 1 CODE CHALLENGE
 This repository consists of a lib folder with three separate files which tackle a specific function 
 1. time_converter.py
 
-This file has a function that converts a 12-hour time like "8:30 am" or "8:30 pm" to 24-hour time 
+This file has a function that converts a 12-hour time like "8:30 am" or "8:30 pm" to 24-hour time. It takes in hour, minute and time of day as the arguments int the function
 
 This has a function, which will be given an hour (always in the range of 1 to 12, inclusive), a minute (always in the range of 0 to 59, inclusive), and a period (either "am" or "pm") as input.
 
