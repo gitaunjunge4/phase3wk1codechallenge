@@ -12,6 +12,10 @@ def postive_numbers(a, b, c):
 
 #tests
 print(postive_numbers(1,2,3))  #false
-print(postive_numbers(-1,2,3))  #false
-print(postive_numbers(-1,-2,3))  #true
+print(postive_numbers(-1,2,3))  #true
+print(postive_numbers(1,-2,3))  #true
+print(postive_numbers(1,2,-3))  #true
+print(postive_numbers(-1,-2,3))  #false
+print(postive_numbers(1,-2,-3))  #false
 print(postive_numbers(-1,-2,-3))  #false
+

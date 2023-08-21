@@ -12,6 +12,7 @@ It returns a four-digit string that encodes that time in 24-hour time.
 2. positve_numbers.py
 
 This file has a function that takes three integers a, b, and c as arguments, and returns True if exactly two of of the three integers are positive numbers (greater than zero), and False - otherwise.
+Essentially the count should strictly equal 2 since only 2 numbers should be > 0
 
 3. consonant_value.py
 
