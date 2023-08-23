@@ -1,5 +1,6 @@
-PHASE 3 WEEK 1 CODE CHALLENGE
+TITLE: PHASE 3 WEEK 1 CODE CHALLENGE
 
+DESCRIPTION
 This repository consists of a lib folder with three separate files which tackle a specific function 
 1. time_converter.py
 
