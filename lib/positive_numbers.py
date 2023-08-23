@@ -8,7 +8,7 @@ def postive_numbers(a, b, c):
     if c > 0:
         positve_count += 1
 
-    return positve_count == 2
+    return positve_count == 2 #truthy
 
 #tests
 print(postive_numbers(1,2,3))  #false
